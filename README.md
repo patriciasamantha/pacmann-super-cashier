@@ -37,6 +37,7 @@ Sistem self-service Super Cashier akan membantu customer dalam:
 ![Screen Shot 2023-04-16 at 16 29 26](https://user-images.githubusercontent.com/130838305/232289745-33156aa7-c6a4-46e4-a87b-b99789a8f6b2.png)
 
 4. Jika batal membeli suatu item, customer bisa menghapus item
+
 ![Screen Shot 2023-04-16 at 16 24 04](https://user-images.githubusercontent.com/130838305/232289751-fbd41a3f-9bfd-48d2-9c1e-887fa5ebb160.png)
 ![Screen Shot 2023-04-16 at 16 24 16](https://user-images.githubusercontent.com/130838305/232289759-a6775bb5-8b4d-49bc-9ab9-61a17a0b25b8.png)
 
