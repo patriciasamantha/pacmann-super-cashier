@@ -83,7 +83,7 @@ transaksi1.delete_item("sawi")
 print(tabel1)
 #transaksi1.reset_item
 #print(tabel1)
-transaksi1.check_order
+transaksi1.check_order()
 print(tabel1)
 total_price = transaksi1.total_price()
 print(total_price)
