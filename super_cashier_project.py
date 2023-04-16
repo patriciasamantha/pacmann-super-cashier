@@ -48,7 +48,7 @@ class Transaction():
     if is_order_correct:
       print("pemesanan sudah benar")
     else:
-      print("pemesanan salah")
+      print("terdapat kesalahan input data")
 
   def total_price(self):
     global tabel1
