@@ -43,13 +43,15 @@ Sistem self-service Super Cashier akan membantu customer dalam:
 
 5. Jika sudah selesai berbelanja, customer dapat mengecek order
  
-  ![Screen Shot 2023-04-16 at 16 24 28](https://user-images.githubusercontent.com/130838305/232289769-241cca04-8b11-4497-b486-32cfd2d00d54.png)
+  ![Screen Shot 2023-04-16 at 18 26 03](https://user-images.githubusercontent.com/130838305/232306729-4ff2ef05-5844-4bfc-a369-8278d9a0ff13.png)
+
 
 6. Customer dapat menampilkan total pembelian yang harus dibayar, setelah mendapatkan diskon (jika ada)
 ![Screen Shot 2023-04-16 at 16 24 45](https://user-images.githubusercontent.com/130838305/232289774-ff21f22f-ebfd-4489-b374-02dfb910824e.png)
 
 # Test Case
-![Screen Shot 2023-04-16 at 16 33 15](https://user-images.githubusercontent.com/130838305/232290013-609c4bbd-4af6-4061-b0d6-bcd57d51918b.png)
+![Screen Shot 2023-04-16 at 18 19 47](https://user-images.githubusercontent.com/130838305/232305987-3b93cb6e-5eff-4744-9400-1557bd2c66ad.png)
 
 # Result
-![Screen Shot 2023-04-16 at 16 33 28](https://user-images.githubusercontent.com/130838305/232290024-e1ba6d6e-3af5-45be-b9e8-a0da0526bb58.png)
+![Screen Shot 2023-04-16 at 18 19 59](https://user-images.githubusercontent.com/130838305/232305998-b1ecfa27-5785-4f72-b8df-fc29b9580959.png)
+
